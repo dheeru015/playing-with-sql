@@ -1,3 +1,4 @@
+--Author: D M DHERRAJ
 aggr AS (
   SELECT 
     user_id, 
