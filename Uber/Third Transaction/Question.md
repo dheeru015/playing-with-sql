@@ -1,6 +1,4 @@
-Assume you are given the table below on Uber transactions made by users. Write a query to obtain the third transaction of every user. Output the user id, spend and transaction date.
-
-Here’s the properly formatted table with proper indentation:  
+Assume you are given the table below on Uber transactions made by users. Write a query to obtain the third transaction of every user. Output the user id, spend and transaction date. 
 
 ### **transactions Table**  
 | Column Name        | Type      |  
@@ -22,4 +20,3 @@ Here’s the properly formatted table with proper indentation:
 | user_id | spend  | transaction_date      |  
 |---------|--------|-----------------------|  
 | 111     | 89.60  | 02/05/2022 12:00:00   |  
-
